@@ -1,8 +1,8 @@
-#Email Newsletter Web Application
+<h2>Email Newsletter Web Application</h2>
 
 This repository contains the code for an Email Newsletter Web Application built using Node.js, Express.js, and JavaScript. The application leverages the MailChimp API to securely store and manage email subscribers on the MailChimp server. The application is deployed using Heroku, a cloud platform that allows easy hosting and scaling of web applications.
 
-#Features
+<h2>Features</h2>
 
 Email Subscription: Users can subscribe to the newsletter by entering their email address.
 MailChimp Integration: The application utilizes the MailChimp API to securely store and manage email subscribers.
@@ -11,7 +11,7 @@ Node.js: The application is built on Node.js, a powerful JavaScript runtime that
 JavaScript: The application is developed using JavaScript, a versatile programming language that runs in web browsers and on servers.
 Heroku Deployment: The application is deployed using Heroku, a cloud platform that simplifies the deployment and scaling process.
 
-#Setup Instructions
+<h2>Setup Instructions</h2>
 
 To run this application locally, follow these steps:
 
@@ -24,12 +24,12 @@ Replace the placeholders in the code with your MailChimp API key and audience de
 Run the application using npm start.
 Open your browser and visit http://localhost:3000 to access the application.
 
-#Deployment
+<h2>Deployment</h2>
 
 The application is deployed on Heroku for easy access and scalability. You can access the live version of the application at https://vast-stream-74233.herokuapp.com
 
-#Contributing
+<h2>Contributing</h2>
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in this repository.
 
-#Contact
+<h2>Contact</h2>
 If you have any questions or need further assistance, please feel free to contact me at [sandalusankaja2001@gmail.com].
