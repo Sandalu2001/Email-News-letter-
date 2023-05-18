@@ -1,0 +1,16 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "This is a newsletter web application that collects user's emails",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandalu De Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
